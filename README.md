@@ -1,5 +1,9 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+## Name : STEFFI J
+## Reg no : 212224220107
+## Date : 20/10/2025
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
